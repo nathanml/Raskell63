@@ -1,0 +1,1 @@
+add some tests for comment and parse errors
